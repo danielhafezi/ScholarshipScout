@@ -1,6 +1,6 @@
 # ScholarshipScout
 
-ScholarshipScout is a web scraper designed to search for fully funded doctorate positions from popular academic position websites. It helps users find PhD opportunities by scraping data from websites like ScholarshipDB and FindAPhD.
+ScholarshipScout is a Multi-Agent AI based web scraper designed to search for fully funded doctorate positions from popular academic position websites. It helps users find PhD opportunities by scraping data from websites like ScholarshipDB and FindAPhD.
 
 ## Features
 
