@@ -14,7 +14,6 @@ ScholarshipScout is a web scraper designed to search for fully funded doctorate 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -79,17 +78,6 @@ ScholarshipScout is a web scraper designed to search for fully funded doctorate 
 - `maxpage`: Maximum number of pages to scrape.
 - `countries`: Desired countries to filter the positions.
 - `output`: Output format (`csv`, `xlsx`, or `both`).
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
 
 ## License
 
